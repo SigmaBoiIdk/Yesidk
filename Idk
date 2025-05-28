@@ -1,7 +1,7 @@
 setfpscap(9855)
 getgenv().Compressed = {
     Main = {
-        Intro = tru e, 
+        Intro = true, 
         MenuKey = Enum.KeyCode.Insert,
         Build = "V3" 
     },
